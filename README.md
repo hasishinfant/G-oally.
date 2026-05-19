@@ -1,18 +1,18 @@
-# 🚀 Gioally — Digitizing Accountability
+# 🚀 G-oally — Digitizing Accountability
 
 <p align="center">
   <img width="160" src="public/favicon.svg" alt="Gioally Logo"/>
 </p>
 
-<h1 align="center">Gioally</h1>
+<h1 align="center">G-oally</h1>
 
 <p align="center">
   A modern Goal Setting & Performance Tracking Platform built to simplify how employees, managers, and HR collaborate during performance cycles.
 </p>
 
 <p align="center">
-  <a href="#-the-story-behind-gioally">Story</a> •
-  <a href="#-what-gioally-solves">Features</a> •
+  <a href="#-the-story-behind-g-oally">Story</a> •
+  <a href="#-what-g-oally-solves">Features</a> •
   <a href="#-user-roles">Roles</a> •
   <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
   <a href="#-run-locally">Setup</a>
@@ -20,7 +20,7 @@
 
 ---
 
-## 🌍 The Story Behind Gioally
+## 🌍 The Story Behind G-oally
 
 Every year in organizations, employees fill endless spreadsheets, managers chase approvals through emails, and HR teams manually track performance reviews.
 
@@ -28,11 +28,11 @@ Every year in organizations, employees fill endless spreadsheets, managers chase
 
 Performance management becomes paperwork instead of progress.
 
-That's where **Gioally** comes in.
+That's where **G-oally** comes in.
 
 > *"Most systems digitize spreadsheets. Gioally digitizes accountability."*
 
-Gioally transforms fragmented goal management into a transparent and collaborative workflow where:
+G-oally transforms fragmented goal management into a transparent and collaborative workflow where:
 
 - **Employees** create and track goals
 - **Managers** review and approve submissions
@@ -41,14 +41,14 @@ Gioally transforms fragmented goal management into a transparent and collaborati
 
 ---
 
-## 💡 What Gioally Solves
+## 💡 What G-oally Solves
 
 ✅ No more scattered spreadsheets  
 ✅ No more manual follow-ups  
 ✅ No more unclear approvals  
 ✅ No more disconnected KPI tracking
 
-### Gioally creates:
+### G-oally creates:
 
 - **Real-time visibility** into goal progress
 - **Structured approval workflows** for managers
@@ -123,7 +123,7 @@ Every action is logged for transparency and governance.
 
 ---
 
-## ⚡ Why Gioally Stands Out
+## ⚡ Why G-oally Stands Out
 
 Gioally is **not just a CRUD app**.
 
@@ -194,7 +194,7 @@ Admin:    carol@demo.com / Password123
 
 ## 📈 Real World Impact
 
-Gioally helps organizations:
+G-oally helps organizations:
 
 - ✅ Reduce manual HR operations
 - ✅ Improve accountability
@@ -206,7 +206,7 @@ Gioally helps organizations:
 
 ## 🚀 Future Vision
 
-Gioally can evolve into:
+G-oally can evolve into:
 
 - 🤖 AI-powered performance analytics
 - 📊 Predictive KPI systems
@@ -232,7 +232,7 @@ Already configured! Just ensure your `.env` points to your Supabase project.
 ## 📂 Project Structure
 
 ```
-gioally/
+g-oally/
 ├── src/
 │   ├── components/
 │   │   ├── auth/          # Login components
@@ -255,7 +255,7 @@ gioally/
 
 > *"Organizations don't fail because goals are absent. They fail because accountability becomes invisible."*
 
-**Gioally brings visibility, structure, and intelligence into organizational performance management.**
+**G-oally brings visibility, structure, and intelligence into organizational performance management.**
 
 ---
 
